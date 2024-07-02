@@ -1,7 +1,7 @@
 # Codebase of the Discord.js V14 Revamped YouTube series
-*Last updated: 04-06-2024 @ 00:31 UTC*
+*Last updated: 02-07-2024 @ 08:30 UTC*
 
-*README.md last updated: 04-06-2024 @ 00:37 UTC*
+*README.md last updated: 02-07-2024 @ 08:30 UTC*
 
 ## Getting started with this codebase
 1. Download this GitHub repository and open it in your code editor (e.g. Visual Studio Code).
